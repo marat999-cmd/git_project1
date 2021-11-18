@@ -5,5 +5,6 @@ def main():
     print('another print')
     print('another print')
 
+
 if __name__ == '__main__':
     main()
