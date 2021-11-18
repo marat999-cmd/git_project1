@@ -4,6 +4,7 @@ def main():
     print('another print')
     print('another print')
     print('another print')
+    print(6 + 7)
 
 
 if __name__ == '__main__':
